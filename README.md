@@ -10,10 +10,6 @@ Payment Gateway
 $
 With the easiest integration, completely online onboarding, feature filled checkout and best in class performance, quickly go live with Razorpay and experience the future of payments.
 
-
-
-
-
  </h3>
 
 </p>
@@ -23,4 +19,9 @@ With the easiest integration, completely online onboarding, feature filled check
 
 [![Build status](https://img.shields.io/github/workflow/status/simple-icons/simple-icons/Verify/develop?logo=github)](https://github.com/simple-icons/simple-icons/actions?query=workflow%3AVerify+branch%3Adevelop)
 
+
+
+## With love from  [Sweta Jain](https://stackoverflow.com/users/6921031/sweta-jain)
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.SkoKdkU1v02J7ycFl2b2twHaHa%26pid%3DApi&f=1" alt="Sweta Jain" width=200 height=200>
 
